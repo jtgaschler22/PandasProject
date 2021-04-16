@@ -10,3 +10,8 @@ This portfolio analyzer tool looks at the returns of major financial players (wh
 - Covariance
 - Variance
 - Beta
+
+And finally, the bottom portion of the notebook uses data for a custom portfolio of stock tickers to see how those performed compared to the returns from above. The custom portfolio comprised of: 
+- AAPL
+- COST
+- GOOG
